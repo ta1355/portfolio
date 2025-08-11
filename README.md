@@ -5,6 +5,21 @@
 
 각 사진은 제가 작업한 프로젝트에서 주요 화면, API 설계, 데이터베이스 구조, 시스템 아키텍처 등을 시각적으로 나타낸 것입니다. 이 포트폴리오는 제가 맡았던 다양한 **백엔드 개발**, **프론트엔드 구현**, **팀워크** 등을 한눈에 보여주는 자료입니다. 아래는 전체 프로젝트 이미지 갤러리입니다.
 
+
+## 📄 프로젝트 링크 모음
+
+다음은 제가 작업한 주요 프로젝트들의 링크입니다. 각 프로젝트에 대한 자세한 내용은 링크를 클릭하여 확인할 수 있습니다.
+
+- [팀 프로젝트 1: 큐레이툰](https://github.com/k-webtoon)<br>
+- [팀 프로젝트 2: 날씨 정보 제공 서비스 프론트엔드](https://github.com/developing-jihye/weather-frontend)<br>
+- [팀 프로젝트 2: 날씨 정보 제공 서비스 백엔드](https://github.com/ta1355/weather-backend)<br>
+  <br>
+- [개인 프로젝트 1: 티 트렌드](https://github.com/ta1355/Tea-is-good-Back-end)<br>
+- [개인 프로젝트 2: GameIsGood 프론트엔드](https://github.com/ta1355/gameisgood-front)<br>
+- [개인 프로젝트 2: GameIsGood 백엔드](https://github.com/ta1355/GameisGood)<br>
+- [개인 프로젝트 3: Undead Surviver](https://github.com/ta1355/Undead-Survivor)<br>
+- [개인 프로젝트 4: 캐릭터 대화 모델 프로젝트](https://github.com/ta1355/ctpr)
+
 ---
 
 ![사진1](portfolio_file/001.jpg)  
@@ -13,7 +28,6 @@
 ![사진4](portfolio_file/004.jpg)  
 ![사진5](portfolio_file/005.jpg)  
 ![사진6](portfolio_file/006.jpg)  
-[youtube 영상](https://www.youtube.com/watch?v=h4_vtcUkq34)
 ![사진7](portfolio_file/007.jpg)  
 ![사진8](portfolio_file/008.jpg)  
 ![사진9](portfolio_file/009.jpg)  
